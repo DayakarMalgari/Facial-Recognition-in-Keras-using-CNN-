@@ -16,10 +16,12 @@ i. Convolutional Layer
 ii. Pooling Layer
 iii. Fully Connected Layer
 
-Total 10 layers; 3 conv2d, 3 maxpoolings, 2 dense and 1 each of flatten and dropout
-Total parameters 900,626, all trainable.
-Classification Report, Confusion Matrix for all 20 classes 
-Roc Curves with Auc values and Precision-Recall curves for all 20 classes
-Displaying Training, Testing and  Misidentified Faces
+Total 10 layers; 3 conv2d, 3 maxpoolings, 2 dense and 1 each of flatten and dropout.
 
-Accuracy of the Model is 95.6 %
+Total parameters 900,626, all trainable.
+
+Classification Report, Confusion Matrix, Roc Curves with Auc values and Precision-Recall curves for all 20 classes.
+
+Displayed Training, Testing and  Misidentified Faces.
+
+Accuracy of the Model is 95.6 % after training for 150 epochs.
