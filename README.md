@@ -25,3 +25,6 @@ Classification Report, Confusion Matrix, Roc Curves with Auc values and Precisio
 Displayed Training, Testing and  Misidentified Faces.
 
 Accuracy of the Model is 95.6 % after training for 150 epochs.
+
+
+
