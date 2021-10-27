@@ -27,4 +27,8 @@ Displayed Training, Testing and  Misidentified Faces.
 Accuracy of the Model is 95.6 % after training for 150 epochs.
 
 
+## 240 Faces used for training the Neural Network
+![TrainingFaces](https://user-images.githubusercontent.com/88380811/139116438-60c444de-98d9-47a0-af51-b956762214ab.png)
 
+## 160 Faces used for testing and evaluation
+![TestingFaces](https://user-images.githubusercontent.com/88380811/139116674-a9492911-e5e1-4efd-aae9-ca0a2a559d46.png)
